@@ -1,16 +1,15 @@
-### Hi there 👋
+### ¡Hola! Soy Alan.
 
-<!--
-**Alan2255/alan2255** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### Formación: 📚
+- 🎓 Soy técnico en informática. Me gradué en el IPS.
+- 🌱 Estoy estudiando LCC (Licenciatura en Ciencias de la Computación) en la FCEIA.
+- 🏢 Actualmente trabajo como desarrollador web en @movilizame
 
-Here are some ideas to get you started:
+#### Datos sin importancia: 🟡
+- 👟 ¡Me encanta salir a correr!
+- 🇦🇷 Soy de Santa Fe, Argentina.
+- ♟️ También me gusta el ajedrez (lichess: Aderod).
+- ✝️ Soy cristiano.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Contacto: 
+- ✉️ Podes contactarme a mi mail: alan.hergen2255@gmail.com
