@@ -1,4 +1,4 @@
-### ¡Hola! Soy Alan.
+### ¡Hola! Soy Alan, mucho gusto.
 
 #### Formación: 📚
 - 🎓 Soy técnico en informática. Me gradué en el IPS.
