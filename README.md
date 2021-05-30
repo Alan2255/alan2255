@@ -3,7 +3,7 @@
 #### Formación: 📚
 - 🎓 Soy técnico en informática. Me gradué en el IPS.
 - 🌱 Estoy estudiando LCC (Licenciatura en Ciencias de la Computación) en la FCEIA.
-- 🏢 Actualmente trabajo como desarrollador web en <a href=www.github.com/movilizame>@movilizame<a/>.
+- 🏢 Actualmente trabajo como desarrollador web en <a href=https://movilizame.com.ar>Movilizame<a/>.
 
 #### Datos sin importancia: 🟡
 - 👟 ¡Me encanta salir a correr!
