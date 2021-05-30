@@ -11,5 +11,5 @@
 - ♟️ También me gusta el ajedrez (lichess: Aderod).
 - ✝️ Soy cristiano.
 
-#### Contacto: 
+#### Contacto: 🌐
 - ✉️ Podes contactarme a mi mail: alan.hergen2255@gmail.com
