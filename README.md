@@ -8,7 +8,7 @@
 #### Datos sin importancia: 🟡
 - 👟 ¡Me encanta salir a correr!
 - 🇦🇷 Soy de Santa Fe, Argentina.
-- ♟️ También me gusta el ajedrez (lichess: Aderod).
+- ♟️ También me gusta el ajedrez (lichess: <a href=https://lichess.org/@/Aderod>Aderod<a/>).
 - ✝️ Soy cristiano.
 
 #### Contacto: 🌐
