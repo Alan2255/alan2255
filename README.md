@@ -1,15 +1,12 @@
-### ¡Hola! Soy Alan, mucho gusto.
-
 #### Formación: 📚
-- 🎓 Soy técnico en informática. Me gradué en el IPS.
-- 🌱 Estoy estudiando LCC (Licenciatura en Ciencias de la Computación) en la FCEIA.
-- 🏢 Trabajé como desarrollador de APPs web y móviles en <a href=https://movilizame.com.ar>Movilizame<a/>.
+- 🎓 Soy técnico en informática. Me gradué en el [IPS](https://www.ips.edu.ar).
+- 🌱 Estoy estudiando LCC (Licenciatura en Ciencias de la Computación) en la [FCEIA](https://web.fceia.unr.edu.ar/es/).
+- 🏢 Trabajé como desarrollador de APPs web y móviles en [Movilizame](https://movilizame.com.ar).
 
-#### Datos sin importancia: 🟡
-- 👟 ¡Me encanta salir a correr!
+#### Sobre mí: 🟡
 - 🇦🇷 Soy de Santa Fe, Argentina.
-- ♟️ También me gusta el ajedrez (lichess: <a href=https://lichess.org/@/Aderod>Aderod<a/>).
 - ✝️ Soy cristiano.
+- Para jugar [ajedrez](https://lichess.org/@/Aderod).
 
 #### Contacto: 🌐
 - ✉️ Podes contactarme a mi mail: alan.hergen2255@gmail.com
