@@ -6,7 +6,7 @@
 #### Sobre mí: 🟡
 - 🇦🇷 Soy de Santa Fe, Argentina.
 - ✝️ Soy cristiano.
-- Para jugar [ajedrez](https://lichess.org/@/Aderod).
+- ♟️ Para jugar [ajedrez](https://lichess.org/@/Aderod).
 
 #### Contacto: 🌐
 - ✉️ Podes contactarme a mi mail: alan.hergen2255@gmail.com
