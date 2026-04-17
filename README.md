@@ -5,5 +5,5 @@
 ### Experience
 - 🏢 Worked on [Movilizame](https://movilizame.com.ar)
 
-### Contact: 
+### Contact
 alan.hergen@gmail.com
